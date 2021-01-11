@@ -1,0 +1,21 @@
+.display{
+    padding-top: 10px;
+}
+
+textarea{
+    width: 450px;
+    height: 240px;
+    resize: none;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.underline {
+    text-decoration: underline;
+}

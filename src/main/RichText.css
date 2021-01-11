@@ -1,0 +1,7 @@
+.rich-text{
+    height: 300px;
+    width: 500px;
+    border-radius: 5px;
+    overflow: hidden;
+    padding: 20px;
+}
