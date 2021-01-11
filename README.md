@@ -14,18 +14,9 @@ Html
 
 ## Prerequisites
 
-```
-```
-
 * [React](https://reactjs.org/)
 
-```
-```
-
 * [NodeJS](https://nodejs.org/en/download/)
-
-```
-```
 
 ### Installing
 
