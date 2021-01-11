@@ -8,9 +8,15 @@ A small example of a rich-text application with only 3 methods, italic, bold and
 
 ## Built With
 
+```
 React
+```
+```
 Css
+```
+```
 Html
+```
 
 ## Prerequisites
 
