@@ -15,22 +15,19 @@ Html
 ## Prerequisites
 
 ```
-* npm
-npm install npm@latest -g
-
 ```
 
 * [React](https://reactjs.org/)
 
 ```
+```
 
-*[NodeJS](https://nodejs.org/en/download/)
+* [NodeJS](https://nodejs.org/en/download/)
 
+```
 ```
 
 ### Installing
-
-A step by step series of examples that tell you how to get a development env running
 
 Clone the repo
 
